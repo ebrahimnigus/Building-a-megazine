@@ -31,4 +31,4 @@ Screenshot
 
 Clone the repository:
 
-> git clone https://github.com/yourusername/building-a-magazine.git
+> git clone https://github.com/yourusername/Building-a-magazine.git
